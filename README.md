@@ -1,5 +1,5 @@
 #### 📌 About Me
-- 🎓 Currently taking on a rigorous 9-month backend development program through BloomTech.
+- 🎓 Currently taking on a rigorous 9-month backend development program through BloomTech
 - ⚙️ Working with Java | React
 - 🌱 Learning more about Amazon Web Services
 
