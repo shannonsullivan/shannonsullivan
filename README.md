@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning backend development at BloomTech
 - 🛰️ I'm exploring backend development career opportunities
 - 🎓 I have and education in information systems and programming
-- 🔭 I aspire to learn more on AWS
+- 🔭 I aspire to learn even more about AWS and all that is offred
 
 #### 🛠 Skills
 - 💻 Java | C#
