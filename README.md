@@ -1,5 +1,5 @@
 #### 📌 About Me
-- 🌱 I’m currently learning backend development at BloomTech
+- 🌱 I just finished a rigorous backend enginerring program through BloomTech
 - 🛰️ I'm exploring backend development career opportunities
 - 🎓 I have and education in information systems and programming
 - 🔭 I aspire to learn even more about AWS and all that's offered
